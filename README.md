@@ -26,3 +26,18 @@ This repository contains Terraform code to provision AWS cloud infrastructure au
 
    ```bash
    git clone https://github.com/MrSandSort/TerraformIaC/
+
+2. For ec2 instances
+
+   ```bash
+   cd instance
+
+3. For Virtual Private Cloud(VPC):
+   ```bash
+   cd vpc
+      
+ 4. Terraform commands:
+    ```bash
+    terraform init
+    terraform plan
+    terraform apply  
